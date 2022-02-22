@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xstring": "c",
+        "cmath": "c",
+        "ios": "cpp",
+        "xiosbase": "cpp"
+    }
+}
